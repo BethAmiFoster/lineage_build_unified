@@ -1,6 +1,7 @@
 #!/bin/bash
 echo ""
-echo "LineageOS 18.x Unified Buildbot"
+echo "DotOS Unified Buildbot"
+echo "Beth Ami Foster, 2020. Based on Andy'Yan's work"
 echo "ATTENTION: this script syncs repo on each run"
 echo "Executing in 5 seconds - CTRL-C to exit"
 echo ""
